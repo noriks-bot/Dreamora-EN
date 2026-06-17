@@ -269,6 +269,15 @@ function enqueue_main_styles() {
         'all'
     );
 
+    // Enqueue landing.css everywhere (contains cal- header/footer styles)
+    wp_enqueue_style(
+        'landing-style',
+        get_template_directory_uri() . '/css/landing.css',
+        array('header-style'),
+        filemtime(get_template_directory() . '/css/landing.css'),
+        'all'
+    );
+
     // Enqueue footer.css (load everywhere)
     wp_enqueue_style(
         'footer-style',

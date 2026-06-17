@@ -30,7 +30,7 @@
       <div class="cal-container cal-footer-grid">
 
         <div class="cal-footer-col cal-footer-brand">
-          <div class="cal-footer-logo">DREAMORA</div>
+          <div class="cal-footer-logo">LUNELLE</div>
           <p class="cal-footer-tag">Ergonomic pillows for better sleep.<br>30 nights risk-free.</p>
           <div class="cal-footer-socials">
             <a href="#" aria-label="Instagram">
@@ -51,8 +51,8 @@
         <div class="cal-footer-col">
           <h4>Shop</h4>
           <ul>
-            <li><a href="#bundles">Dreamora sleep mask</a></li>
-            <li><a href="#bundles">Bundles</a></li>
+            <li><a href="/product/lunelle-deluxe-sleep-mask/">Lunelle sleep mask</a></li>
+            <li><a href="/shop/">Shop all</a></li>
             <li><a href="#">Deals</a></li>
             <li><a href="#">Gift cards</a></li>
           </ul>
@@ -77,7 +77,7 @@
             <li><a href="#">Press</a></li>
           </ul>
           <div class="cal-footer-contact">
-            <p><strong>Support:</strong><br><a href="mailto:info@dreamora.si">info@dreamora.si</a></p>
+            <p><strong>Support:</strong><br><a href="mailto:info@lunelle.com">info@lunelle.com</a></p>
           </div>
         </div>
 
@@ -88,7 +88,7 @@
     <div class="cal-footer-bottom">
       <div class="cal-container cal-footer-bottom-inner">
         <div class="cal-footer-copy">
-          © <?php echo date('Y'); ?> Dreamora. All rights reserved.
+          © <?php echo date('Y'); ?> Lunelle. All rights reserved.
         </div>
         <div class="cal-footer-legal">
           <a href="#">Terms of Use</a>
