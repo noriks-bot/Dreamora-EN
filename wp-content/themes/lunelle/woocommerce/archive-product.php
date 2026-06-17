@@ -247,7 +247,7 @@ function is_active_menu_item( $path ) {
 
   <img
     src="<?php echo get_template_directory_uri(); ?>/img/noriks-shop.png"
-    style="display:block; width:100%; min-height:105px; border-radius:0;"
+    style="display:block; width:100%; min-height:105px; border-radius:0;" onerror="this.style.display='none'"
     alt=""
   >
 
