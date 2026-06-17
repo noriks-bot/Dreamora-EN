@@ -54,7 +54,7 @@
         <nav class="cal-nav-desktop" aria-label="Main menu">
           <a href="<?php echo esc_url( home_url( '/' ) ); ?>">Home</a>
           <a href="<?php echo esc_url( home_url( '/shop/' ) ); ?>">Shop</a>
-          <a href="<?php echo esc_url( home_url( '/product/lunelle-deluxe-sleep-mask/' ) ); ?>">Sleep Mask</a>
+          <a href="<?php echo esc_url( home_url( '/product/dreamora-deluxe-sleep-mask-headphones/' ) ); ?>">Sleep Mask</a>
         </nav>
       </div>
 
@@ -81,7 +81,7 @@
       <nav class="cal-nav-mobile" aria-label="Mobile menu">
         <a href="<?php echo esc_url( home_url( '/' ) ); ?>">Home</a>
         <a href="<?php echo esc_url( home_url( '/shop/' ) ); ?>">Shop</a>
-        <a href="<?php echo esc_url( home_url( '/product/lunelle-deluxe-sleep-mask/' ) ); ?>">Sleep Mask</a>
+        <a href="<?php echo esc_url( home_url( '/product/dreamora-deluxe-sleep-mask-headphones/' ) ); ?>">Sleep Mask</a>
         <a href="<?php echo esc_url( site_url( '/my-account/' ) ); ?>">My account</a>
       </nav>
     </div>

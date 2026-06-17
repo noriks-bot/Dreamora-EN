@@ -9,7 +9,7 @@
 
 get_header();
 
-$product_url = home_url( '/product/lunelle-deluxe-sleep-mask/' );
+$product_url = home_url( '/product/dreamora-deluxe-sleep-mask-headphones/' );
 $shop_url    = home_url( '/shop/' );
 $img         = '/static/site/cdn/shop/files/';
 $hero_img    = $img . 'Dreamora_Deluxe_couple_in_bed.jpg';

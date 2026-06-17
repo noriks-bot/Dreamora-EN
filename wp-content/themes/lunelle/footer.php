@@ -51,7 +51,7 @@
         <div class="cal-footer-col">
           <h4>Shop</h4>
           <ul>
-            <li><a href="/product/lunelle-deluxe-sleep-mask/">Lunelle sleep mask</a></li>
+            <li><a href="/product/dreamora-deluxe-sleep-mask-headphones/">Lunelle sleep mask</a></li>
             <li><a href="/shop/">Shop all</a></li>
             <li><a href="#">Deals</a></li>
             <li><a href="#">Gift cards</a></li>
